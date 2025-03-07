@@ -39,7 +39,7 @@ Ensure you have the following dependencies installed:
 ### Installation
 1. Clone the repository or download the project workspace.
    ```bash
-   https://github.com/olugbeminiyi2000/LANDMARKCLASSIFIER/
+   git clone https://github.com/olugbeminiyi2000/LANDMARKCLASSIFIER/
    cd LANDMARKCLASSIFIER
    ```
 2. Install the required dependencies:
