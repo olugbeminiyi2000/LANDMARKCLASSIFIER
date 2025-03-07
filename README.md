@@ -44,7 +44,7 @@ Ensure you have the following dependencies installed:
    ```
 2. Install the required dependencies:
    ```bash
-   pip install -r requirements(1).txt
+   pip install -r requirements (1).txt
    ```
    
 ## Evaluation and Reflection
